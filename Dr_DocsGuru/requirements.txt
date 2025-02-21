@@ -3,4 +3,5 @@ faiss-cpu
 numpy
 scikit-learn
 transformers
-torch 
+torch
+python-docx
